@@ -27,5 +27,4 @@ I'm a full stack developer. Focused on web systems.
 		</p>
 	</center>
 </div>
-<div class="separator2">Contact</div>
 <h3 align="left">🌐 <a href="http://nicolasleitearaujo.online">nicolasleitearaujo.online</a> || 📧 <a href="mailto:nicolasleitearaujo@gmail.com">nicolasleitearaujo@gmail.com</a></h3>
