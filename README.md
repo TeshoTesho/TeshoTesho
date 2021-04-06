@@ -27,4 +27,6 @@ I'm a full stack developer. Focused on web systems.
 		</p>
 	</center>
 </div>
-<h3 align="left">🌐 <a href="http://nicolasleitearaujo.online">nicolasleitearaujo.online</a> || https://img.shields.io/badge/-nicolasleitearaujo@gmail.com-eb415b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolasleitearaujo@gmail.com </h3>
+<h3 align="left">🌐 <a href="http://nicolasleitearaujo.online">nicolasleitearaujo.online</a> || 
+	[![Gmail Badge](https://img.shields.io/badge/-nicolasleitearaujo@gmail.com-eb415b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolasleitearaujo@gmail.com)](mailto:nicolasleitearaujo@gmail.com) 
+</h3>
