@@ -28,6 +28,8 @@ I'm a full stack developer. Focused on web systems.
 	</center>
 </div>
 <h3 align="left">🌐 <a href="http://nicolasleitearaujo.online">nicolasleitearaujo.online</a> || 
-	[![Gmail Badge](https://img.shields.io/badge/-nicolasleitearaujo@gmail.com-eb415b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolasleitearaujo@gmail.com)](mailto:nicolasleitearaujo@gmail.com) 
-	[![Gmail Badge](https://img.shields.io/badge/-joaosilva16387@gmail.com-eb415b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaosilva16387@gmail.com)](mailto:joaosilva16387@gmail.com)
+	
+	
 </h3>
+
+[![Gmail Badge](https://img.shields.io/badge/-nicolasleitearaujo@gmail.com-eb415b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolasleitearaujo@gmail.com)](mailto:nicolasleitearaujo@gmail.com) 
