@@ -33,3 +33,5 @@ I'm a full stack developer. Focused on web systems.
 </h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-nicolasleitearaujo@gmail.com-eb415b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolasleitearaujo@gmail.com)](mailto:nicolasleitearaujo@gmail.com) 
+[![Web Badge](https://img.shields.io/badge/Site-nicolasleitearaujo.online-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolasleitearaujo@gmail.com)](nicolasleitearaujo.online) 
+
