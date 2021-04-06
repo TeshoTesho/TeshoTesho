@@ -29,5 +29,5 @@ I'm a full stack developer. Focused on web systems.
 </div>
 
 [![Gmail Badge](https://img.shields.io/badge/-nicolasleitearaujo@gmail.com-eb415b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolasleitearaujo@gmail.com)](mailto:nicolasleitearaujo@gmail.com) 
-[![Web Badge](https://img.shields.io/badge/WebSite-nicolasleitearaujo.online-blue?style=flat-square&logo=Web&logoColor=white&link=nicolasleitearaujoonline)](nicolasleitearaujo.online) 
+[![Web Badge](https://img.shields.io/badge/WebSite-nicolasleitearaujo.online-blue?style=flat-square&logo=Web&logoColor=white&link=http://nicolasleitearaujoonline)](http://nicolasleitearaujo.online) 
 
